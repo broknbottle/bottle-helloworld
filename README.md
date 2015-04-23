@@ -1,3 +1,3 @@
 Hello World
 ===========
-This is a hello world app using the bottle framework.
+A simple 'Hello World' app using the python bottle framework.
